@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assessment 1</string>
+    <string name="judul">Kalkulator Sederhana</string>
+    <string name="angka1">Angka ke-1</string>
+    <string name="angka1_invalid">Angka ke-1 harus diisi</string>
+    <string name="angka2">Angka ke-2</string>
+    <string name="angka2_invalid">Angka ke-2 harus diisi</string>
+    <string name="operasi">Operasi</string>
+    <string name="hitung">Hitung</string>
+    <string name="riwayat">Riwayat</string>
+    <string name="hasil">= %1$.2f</string>
+    <string name="sama_dengan">=</string>
+</resources>
